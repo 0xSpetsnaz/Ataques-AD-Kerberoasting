@@ -26,5 +26,5 @@ extenso y estructurado, orientado a entender las amenazas y a la concienciación
 importancia de implementar medidas preventivas y defensivas adecuadas en los sistemas 
 corporativos.
 
-> [!NOTA]
+> [NOTA]
 > Vídeo aparte. Solicítalo si quieres ver el proceso entero. Gracias :)
